@@ -1,2 +1,2 @@
-# threehouse_control
-IOT controls for threehouse
+# Treehouse_control
+IOT controls for Treehouse
